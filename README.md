@@ -27,6 +27,24 @@
 | 12   | watcher-test1.apsny.camera            | нету |
 | 13   | watcher-test2.apsny.camera            | нету |
 
+```python
+domains = [
+    "ai.apsny.camera",
+    "api.apsny.camera",
+    "clients.apsny.camera",
+    "flussonic-test.apsny.camera",
+    "public.apsny.camera",
+    "watcher-node1.apsny.camera",
+    "watcher-node2.apsny.camera",
+    "watcher-node3.apsny.camera",
+    "watcher-node4.apsny.camera",
+    "watcher-node5.apsny.camera",
+    "watcher-test.apsny.camera",
+    "watcher-test1.apsny.camera",
+    "watcher-test2.apsny.camera",
+]
+```
+
 | #   | Поддомены                 | Статус Коды |
 | --- | ------------------------- | ----------- |
 | 1   | 2ip.cyxym.net            | нету |
@@ -99,3 +117,77 @@
 | 68   | vod-1.cyxym.net            | 200 |
 | 69   | ya-kassa.cyxym.net            | 200 |
 | 70   | yoo-kassa.cyxym.net            | нету |
+```python 
+domains = [
+    "2ip.cyxym.net",
+    "agtrk-epg.cyxym.net",
+    "api.cyxym.net",
+    "app.cyxym.net",
+    "cabinet.cyxym.net",
+    "cabinet1.cyxym.net",
+    "captive-port.cyxym.net",
+    "crm.cyxym.net",
+    "dvr-01.cyxym.net",
+    "dvr-edge-01.cyxym.net",
+    "dvr-edge-02.cyxym.net",
+    "dvr-edge-03.cyxym.net",
+    "dvr.cyxym.net",
+    "e-pay.cyxym.net",
+    "epay.cyxym.net",
+    "freepbx.cyxym.net",
+    "fw-update.cyxym.net",
+    "gitlab.cyxym.net",
+    "gpon-ga.cyxym.net",
+    "gpon-su.cyxym.net",
+    "iptv-01.cyxym.net",
+    "iptv-1cdn.cyxym.net",
+    "iptv-edge-01.cyxym.net",
+    "iptv-edge-02.cyxym.net",
+    "iptv-edge-03.cyxym.net",
+    "iptv-streamer1.cyxym.net",
+    "iptv-streamer2.cyxym.net",
+    "iptv-test.cyxym.net",
+    "iptv.cyxym.net",
+    "joomla.cyxym.net",
+    "juniper-tmpl.cyxym.net",
+    "key.cyxym.net",
+    "kino.cyxym.net",
+    "localhost.cyxym.net",
+    "mail.cyxym.net",
+    "mysql.cyxym.net",
+    "ns1.cyxym.net",
+    "ns2.cyxym.net",
+    "ntp.cyxym.net",
+    "omada.cyxym.net",
+    "online.cyxym.net",
+    "oracle.cyxym.net",
+    "push.cyxym.net",
+    "service.cyxym.net",
+    "sip.cyxym.net",
+    "sipsrv.cyxym.net",
+    "smtp.cyxym.net",
+    "speedtest1.cyxym.net",
+    "speedtest2.cyxym.net",
+    "stb-kino.cyxym.net",
+    "stbfw.cyxym.net",
+    "stbprov.cyxym.net",
+    "su-gw-retn.cyxym.net",
+    "su-gw.cyxym.net",
+    "support.cyxym.net",
+    "td.cyxym.net",
+    "telemetry.cyxym.net",
+    "test-ssl.cyxym.net",
+    "test1.cyxym.net",
+    "test2.cyxym.net",
+    "testzone.cyxym.net",
+    "tms.cyxym.net",
+    "transcoder-test.cyxym.net",
+    "tv.cyxym.net",
+    "unifi.cyxym.net",
+    "userside-test.cyxym.net",
+    "userside.cyxym.net",
+    "vod-1.cyxym.net",
+    "ya-kassa.cyxym.net",
+    "yoo-kassa.cyxym.net",
+]
+```
